@@ -1,2 +1,5 @@
 # big-o-notation-examples
-the console application that exemplifies with code an example for each big-o notation
+a console application that exemplifies with code an example for each big-o notation
+
+# Requirements
+- DOTNETCORE 
